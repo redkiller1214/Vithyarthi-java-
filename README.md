@@ -600,9 +600,3 @@ The `test-data/` directory contains sample CSV files for testing:
 
 ---
 
-**Note**: This project is developed for educational purposes to demonstrate comprehensive Java SE programming concepts and best practices.
-
-**Author**: Sparsh Agarwal
-**Course**: Programming in Java  
-**Date**: 2025
-**Version**: 1.0.0
